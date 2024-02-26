@@ -7,9 +7,7 @@ Instructions:
 3. Continue clicking away... or restart!
 
 Further usage:
-
-Edit the used hexadecimal colors to get different themes. Add as many as you like!
-
-Edit the amount of variation allowed for each RGB component to better control the outcome. 
+1. Edit the used hexadecimal colors to get different themes. Add as many as you like!
+2. Edit the amount of variation allowed for each RGB component to better control the outcome. 
 
 A fun side project, still in development!
